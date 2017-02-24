@@ -1,0 +1,299 @@
+.wrapper-top-border {
+    border-top: 3px solid #d00b01;
+}
+
+h1{
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    font-weight: 800;
+    padding: 15px 0;
+}
+
+h2{
+    padding: 5px 0;
+    text-transform: uppercase;
+}
+.padding-top{
+    padding-top:25px;
+}
+
+.margin-top{
+    padding-top:25px;
+}
+
+.logo {
+    padding: 25px 0 25px 0;
+}
+
+.header-social ul li {
+    display: inline-block;
+    padding: 5px;
+    background-color: #d1d1d1;
+    border-radius: 150%;
+}
+
+.header-social {
+    padding: 25px 0 20px 0;
+}
+
+.header-social ul li a {
+    color: white;
+}
+
+.social-padding {
+    padding: 0 4px;
+}
+
+.nav-menu ul li {
+    display: inline-block;
+}
+
+.nav-menu ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    margin-right: 25px;
+}
+
+.nav-menu ul li:last-child a {
+    margin-right: 0px;
+}
+
+.icon-box {
+    text-align: center;
+    padding: 60px 0;
+}
+
+.icon-box a{
+     color: #313131;
+}
+
+.i-font{
+    font-size: 30px;
+    padding: 10px 12px;
+    background-color: #d1d1d1;
+    border-radius: 150%;
+}
+
+.icon-box p{
+    padding: 5px;
+    line-height: 20px;
+}
+
+.content-block{
+    text-align: center;
+    padding: 30px 0;
+    color: #3b3b3b;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.content-block p{
+    line-height: 31px;
+    padding-top: 7px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+
+.icon-lr {
+    padding: 15px 0;
+}
+
+.icon-lr ul li{
+    display: inline-block;
+}
+
+.icon-lr ul li a{
+    color: #313131;
+    font-size: 20px;
+}
+
+.egestas {
+    padding-right: 5px;
+}
+
+.egestas p{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.egestas-icon {
+    padding:7px 0;
+}
+
+.egestas-icon ul li{
+    font-size: 14px;
+    color: #9d9d9d;
+    padding: 2px 0;
+}
+
+.ic-egestas{
+    color: #464646;
+    padding-right: 5px;
+}
+
+.a-link {
+    color: #d00b01;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.news-circle {
+    width: 60px;
+    height: 50px;
+    padding: 20px 5px 0 5px;
+    line-height: 14px;
+    color: #1e1e1e;
+    font-size: 12px;
+    font-weight: 400;
+    background: #d1d1d1;
+    border-radius: 50%;
+    margin: 0 13px 5px 0;
+    text-align: center;
+}
+
+.news-circle span{
+    font-size: 18px;
+}
+
+.h2-font{
+    color: #d00b01;
+}
+
+.news-info{
+    font-size: 14px;
+    color: #9d9d9d;
+    padding: 5px 0;
+    font-style: italic;
+}
+
+.news-info-pad{
+    padding: 5px 0;
+}
+
+.news-text{
+    padding-top: 10px;
+    line-height: 18px;
+}
+
+.h2-font-pad{
+    padding:15px 0;
+}
+
+.post-text {
+    margin-bottom: 70px;
+}
+
+.post-text p{
+    padding-top:12px;
+    line-height: 18px;
+} 
+
+.footer{
+    background: #FFF;
+    padding-top: 44px;
+    border-top: 4px #313131 solid;
+    color: #1e1e1e;
+    line-height: 16px; 
+}
+
+.photo ul li{
+    display: inline-block;
+}
+
+.photo ul li a img{
+    border-radius: 5px;
+}
+
+.test1{
+    border-bottom: 1px solid #dadada;
+    padding-bottom: 20px;
+}
+
+
+.test2 ul li {
+    line-height: 18px;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+
+.commet-icon{
+    color: #d00b01;
+    margin: 0 8px 5px 0; 
+}
+
+.foot-span {
+    font-style: italic;
+    color: #d00b01;
+    font-size: 12px;
+}
+
+.bottom-footer {
+    background-color: #1e1e1e;
+    height: 165px;
+    margin-top: 40px;
+}
+
+.foot-logo a img{
+    width: 277px;
+    height: 77px;
+}
+
+.menu-Color{
+    color:#303030;
+}
+
+.nav-foot ul li {
+    display: inline-block;
+}
+
+.nav-foot ul li a {
+    text-decoration: none;
+    font-weight: 900;
+    color:#303030;;
+    margin-right: 14px;
+}
+
+.nav-foot ul li:last-child a {
+    margin-right: 0px;
+}
+
+.copyright p{
+    padding-top: 15px;
+}
+
+
+.foot-social ul li {
+    display: inline-block;
+    padding: 5px;
+}
+
+.foot-social {
+    padding: 25px 0 20px 0;
+}
+
+.foot-social ul li a {
+    color: #303030;;
+}
+
+.touch input[type=text] {
+    box-sizing: border-box;
+    border: 1px solid #d1d1d1;
+    font-size: 14px;
+    background-color: #d1d1d1;
+    color:black;
+    margin-bottom: 5px;
+}
+
+.search input[type=text] {
+    box-sizing: border-box;
+    border: 1px solid #303030;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #303030;;
+    padding: 8px;
+    color:white;
+}
